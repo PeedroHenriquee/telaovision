@@ -1,3 +1,28 @@
 .container{
-    background-color: brown;
+}
+
+.botoes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.quadro{
+    height: 400px;
+    background-color: #d9d9d9;
+}
+
+/*NAVBAR*/
+.logo_nb{
+    margin-left: 100px;
+}
+
+.user_profile{
+    margin-right: 100px;
+}
+
+.nav-item{
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 15px;
+    font-size: 17px;
 }
