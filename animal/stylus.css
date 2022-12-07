@@ -1,9 +1,13 @@
-.container{
-}
 
 .botoes{
     display: flex;
     justify-content: space-between;
+}
+
+.bt{
+    display: flex;
+
+    
 }
 
 .quadro{
@@ -34,3 +38,4 @@ h3{
 .user_profile{
     border-radius: 50%;
 }
+
